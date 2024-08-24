@@ -1,2 +1,2 @@
 # AI-Text-Summarizer
-postman student program project 
+Postman Student Program Project 
